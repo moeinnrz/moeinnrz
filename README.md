@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/moeinnrz"><img src="https://img.shields.io/badge/GITHUB-0B0F14?style=flat-square&logo=github&logoColor=F0F6FC" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/moein-norouzi-badelbu/"><img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/moein-norouzi-badelbu-nrz/"><img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"></a>
   <a href="mailto:moein.nrz.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0F14?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=moeinnrz&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
 </div>
