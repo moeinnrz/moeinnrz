@@ -16,6 +16,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Prepare writable output directory
+        run: |
+          mkdir -p dist
+          chmod 777 dist
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -25,10 +30,24 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-light.svg?palette=github-light
 
+      - name: Restore output directory ownership
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
+
       - name: Generate live analytics dashboard
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/generate_dashboard.py
+        run: |
+          python3 .github/scripts/generate_dashboard.py
+
+      - name: Verify generated assets
+        run: |
+          test -s dist/github-dashboard.svg
+          test -s dist/github-contribution-grid-snake.svg
+          test -s dist/github-contribution-grid-snake-dark.svg
+          test -s dist/github-contribution-grid-snake-light.svg
+          echo "Generated assets:"
+          ls -lh dist
 
       - name: Publish generated assets
         uses: crazy-max/ghaction-github-pages@v4
