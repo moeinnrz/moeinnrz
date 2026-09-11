@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Moein Norouzi — AI & Machine Learning" />
+  <img src="header.svg" width="100%" alt="Moein Norouzi — AI & Machine Learning" />
 </div>
 
 <br>
