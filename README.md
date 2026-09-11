@@ -257,7 +257,7 @@ Networking / security learning project implemented in Python.
 
 <a href="https://github.com/moeinnrz">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/moein-norouzi-badelbu/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/moein-norouzi-badelbu-nrz/">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:moein.nrz.dev@gmail.com">Email</a>
 
