@@ -11,7 +11,11 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
