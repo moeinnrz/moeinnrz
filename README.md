@@ -173,7 +173,7 @@ Networking / security learning project implemented in Python.
 ## `05 / github analytics`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/moeinnrz/moeinnrz/output/github-dashboard.svg" width="100%" alt="Live GitHub analytics dashboard" />
+  <img src="https://raw.githubusercontent.com/moeinnrz/moeinnrz/gh-pages/github-dashboard.svg" width="100%" alt="Live GitHub analytics dashboard" />
 </div>
 
 <p align="center"><sub>Contribution totals, streaks, monthly activity, repository count, stars and language distribution are generated from GitHub data by GitHub Actions.</sub></p>
@@ -192,9 +192,9 @@ Networking / security learning project implemented in Python.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moeinnrz/moeinnrz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moeinnrz/moeinnrz/output/github-contribution-grid-snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/moeinnrz/moeinnrz/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moeinnrz/moeinnrz/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moeinnrz/moeinnrz/gh-pages/github-contribution-grid-snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/moeinnrz/moeinnrz/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
   </picture>
 </div>
 
