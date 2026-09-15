@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" rx="20" fill="#0B0F14"/>
+<text x="42" y="52" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" text-anchor="start">GITHUB ANALYTICS</text>
+<text x="42" y="79" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="22px" font-weight="700" text-anchor="start">@moeinnrz</text>
+<text x="1158" y="58" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" text-anchor="end">LIVE DATA • GITHUB ACTIONS</text>
+<rect x="42" y="105" width="250" height="105" rx="14" fill="#111820" stroke="#26303B"/>
+<rect x="310" y="105" width="250" height="105" rx="14" fill="#111820" stroke="#26303B"/>
+<rect x="578" y="105" width="250" height="105" rx="14" fill="#111820" stroke="#26303B"/>
+<rect x="846" y="105" width="312" height="105" rx="14" fill="#111820" stroke="#26303B"/>
+<rect x="42" y="232" width="780" height="420" rx="14" fill="#111820" stroke="#26303B"/>
+<rect x="846" y="232" width="312" height="420" rx="14" fill="#111820" stroke="#26303B"/>
+<text x="60" y="135" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="700" text-anchor="start">CONTRIBUTIONS</text>
+<text x="60" y="175" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="31px" font-weight="700" text-anchor="start">18</text>
+<text x="60" y="198" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" text-anchor="start">last 12 months</text>
+<text x="328" y="135" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="700" text-anchor="start">CURRENT STREAK</text>
+<text x="328" y="175" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="31px" font-weight="700" text-anchor="start">0</text>
+<text x="328" y="198" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" text-anchor="start">days</text>
+<text x="596" y="135" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="700" text-anchor="start">LONGEST STREAK</text>
+<text x="596" y="175" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="31px" font-weight="700" text-anchor="start">1</text>
+<text x="596" y="198" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" text-anchor="start">days</text>
+<text x="864" y="135" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="700" text-anchor="start">PUBLIC REPOSITORIES</text>
+<text x="864" y="175" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="31px" font-weight="700" text-anchor="start">7</text>
+<text x="864" y="198" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" text-anchor="start">0 total stars</text>
+<text x="66" y="267" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" text-anchor="start">CONTRIBUTION TREND</text>
+<text x="66" y="292" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="15px" font-weight="600" text-anchor="start">Monthly activity across the latest 12 months</text>
+<line x1="70" y1="325.0" x2="770" y2="325.0" stroke="#202832" stroke-width="1"/>
+<text x="58" y="329.0" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="end">17</text>
+<line x1="70" y1="392.5" x2="770" y2="392.5" stroke="#202832" stroke-width="1"/>
+<text x="58" y="396.5" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="end">13</text>
+<line x1="70" y1="460.0" x2="770" y2="460.0" stroke="#202832" stroke-width="1"/>
+<text x="58" y="464.0" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="end">8</text>
+<line x1="70" y1="527.5" x2="770" y2="527.5" stroke="#202832" stroke-width="1"/>
+<text x="58" y="531.5" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="end">4</text>
+<line x1="70" y1="595.0" x2="770" y2="595.0" stroke="#202832" stroke-width="1"/>
+<text x="58" y="599.0" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="end">0</text>
+<text x="70.0" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Oct 25</text>
+<text x="133.63636363636363" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Nov 25</text>
+<text x="197.27272727272725" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Dec 25</text>
+<text x="260.9090909090909" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Jan 26</text>
+<text x="324.5454545454545" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Feb 26</text>
+<text x="388.1818181818182" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Mar 26</text>
+<text x="451.8181818181818" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Apr 26</text>
+<text x="515.4545454545455" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">May 26</text>
+<text x="579.090909090909" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Jun 26</text>
+<text x="642.7272727272727" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Jul 26</text>
+<text x="706.3636363636364" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Aug 26</text>
+<text x="770.0" y="619" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" text-anchor="middle">Sep 26</text>
+<path d="M 70.0 595 L 70.0 595.0 L 133.6 595.0 L 197.3 595.0 L 260.9 579.1 L 324.5 595.0 L 388.2 595.0 L 451.8 595.0 L 515.5 595.0 L 579.1 595.0 L 642.7 595.0 L 706.4 595.0 L 770.0 325.0 L 770.0 595 Z" fill="#58A6FF" opacity="0.10"/>
+<path d="M 70.0 595.0 L 133.6 595.0 L 197.3 595.0 L 260.9 579.1 L 324.5 595.0 L 388.2 595.0 L 451.8 595.0 L 515.5 595.0 L 579.1 595.0 L 642.7 595.0 L 706.4 595.0 L 770.0 325.0" fill="none" stroke="#58A6FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="70.0" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="133.6" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="197.3" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="260.9" cy="579.1" r="4" fill="#58A6FF"/>
+<circle cx="324.5" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="388.2" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="451.8" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="515.5" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="579.1" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="642.7" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="706.4" cy="595.0" r="4" fill="#58A6FF"/>
+<circle cx="770.0" cy="325.0" r="4" fill="#58A6FF"/>
+<text x="870" y="267" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="700" text-anchor="start">LANGUAGE PROFILE</text>
+<text x="870" y="292" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="15px" font-weight="600" text-anchor="start">Repository language footprint</text>
+<text x="870" y="335" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="600" text-anchor="start">C#</text>
+<text x="1130" y="335" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="600" text-anchor="end">98%</text>
+<rect x="870" y="347" width="260" height="8" rx="4" fill="#202832"/>
+<rect x="870" y="347" width="254.8" height="8" rx="4" fill="#58A6FF"/>
+<text x="870" y="390" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="600" text-anchor="start">Python</text>
+<text x="1130" y="390" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="600" text-anchor="end">2%</text>
+<rect x="870" y="402" width="260" height="8" rx="4" fill="#202832"/>
+<rect x="870" y="402" width="5.2" height="8" rx="4" fill="#58A6FF"/>
+<text x="66" y="624" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="700" text-anchor="start">ACTIVITY MIX</text>
+<text x="150" y="624" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="9px" font-weight="700" text-anchor="start">COMMITS</text>
+<text x="150" y="646" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="700" text-anchor="start">17</text>
+<text x="295" y="624" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="9px" font-weight="700" text-anchor="start">ISSUES</text>
+<text x="295" y="646" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="700" text-anchor="start">0</text>
+<text x="440" y="624" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="9px" font-weight="700" text-anchor="start">PULL REQUESTS</text>
+<text x="440" y="646" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="700" text-anchor="start">0</text>
+<text x="585" y="624" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="9px" font-weight="700" text-anchor="start">REPOSITORY CREATIONS</text>
+<text x="585" y="646" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="700" text-anchor="start">1</text>
+</svg>
