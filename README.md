@@ -4,7 +4,7 @@
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap, last 12 months" />
 <br><br>
 <h3><code>moein@moein.nrz ~ $ whoami</code></h3>
-<img src="./whoami.svg" width="860" alt="ASCII portrait and AI developer information card" />
+<img src="./whoami.svg" width="100%" alt="Moein Norouzi terminal profile information" />
 <br>
 <h3><code>moein@moein.nrz ~ $ cat contact.txt</code></h3>
 <p>
@@ -64,7 +64,7 @@ NLP
 
 **Engineering**  
 Python  
-C# / C++  
+C#  
 Django / Backend  
 Automation
 
@@ -82,7 +82,7 @@ Automation
 |:--|:--|
 | Machine Learning | Python development |
 | Deep Learning | C# / desktop applications |
-| Neural Networks | C++ fundamentals |
+| Neural Networks | Programming fundamentals |
 | Computer Vision | Django / backend |
 | Natural Language Processing | Automation |
 | Generative AI — learning path | Git & GitHub workflows |
@@ -92,10 +92,10 @@ Automation
 ## `03 / tech stack`
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Moein Norouzi technology stack and skill progress bars" />
+  <img src="./assets/tech-stack.svg" width="100%" alt="Moein Norouzi terminal technology stack with proficiency bars" />
 </div>
 
-> Progress bars are a portfolio visualization of my current working familiarity with each technology, not standardized skill benchmarks.
+> Progress bars represent a personal portfolio visualization of current working familiarity, not standardized benchmarks.
 
 ---
 
