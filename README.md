@@ -92,10 +92,42 @@ Automation
 ## `03 / tech stack`
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Moein Norouzi terminal technology stack with proficiency bars" />
+
+<pre>
+╭──────────────────────────────────────────────────────────────────────────────────────────────╮
+│  ● ● ●          moein@moein.nrz: ~/tech-stack — zsh                                         │
+╰──────────────────────────────────────────────────────────────────────────────────────────────╯
+$ ./skills --verbose
+
+initializing proficiency matrix... <b>OK</b>
+
+┌─ Languages ────────────────────────────────────────────────────────────────────────────────┐
+│  Python           ██████████████████░░   90%                                      │
+│  C#               █████████████░░░░░░░   65%                                      │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─ AI / Data ────────────────────────────────────────────────────────────────────────────────┐
+│  PyTorch          ████████████████░░░░   82%                                      │
+│  TensorFlow       ████████████████░░░░   80%                                      │
+│  OpenCV           ██████████████████░░   90%                                      │
+│  Scikit-learn     ████████████████░░░░   78%                                      │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─ Backend / Tools ─────────────────────────────────────────────────────────────────────────┐
+│  Django           ████████████████░░░░   82%                                      │
+│  Docker           ███████████░░░░░░░░░   55%                                      │
+│  Git              █████████████████░░░   85%                                      │
+│  GitHub           ██████████████████░░   92%                                      │
+│  VS Code          ██████████████████░░   92%                                      │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
+
+root@moein.nrz:~$ echo "AI • BUILD • LEARN"
+READY
+</pre>
+
 </div>
 
-> Progress bars represent a personal portfolio visualization of current working familiarity, not standardized benchmarks.
+> Progress bars are a personal portfolio visualization of current working familiarity, not standardized benchmarks.
 
 ---
 
