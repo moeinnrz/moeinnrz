@@ -304,15 +304,13 @@ Networking / security learning project implemented in Python.
 ## `11 / connect`
 
 <div align="center">
-
-<a href="https://github.com/moeinnrz">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/moein-norouzi-badelbu-nrz/">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:moein.nrz.dev@gmail.com">Email</a>
-
-<br><br>
-
-<sub>Designed as a living developer portfolio · @moeinnrz</sub>
-
+  <img src="./assets/connect.svg" width="100%" alt="Terminal-style connect panel" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/moeinnrz"><img src="https://img.shields.io/badge/GitHub-@moeinnrz-39d353?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Open GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/moein-norouzi-badelbu-nrz/"><img src="https://img.shields.io/badge/LinkedIn-Moein%20Norouzi-58a6ff?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Open LinkedIn profile" /></a>
+  <a href="mailto:moein.nrz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-moein.nrz.dev%40gmail.com-c9d1d9?style=for-the-badge&logo=gmail&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Send email" /></a>
+</p>
+
+<p align="center"><sub>Designed as a living developer portfolio · @moeinnrz</sub></p>
