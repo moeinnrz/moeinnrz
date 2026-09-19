@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+  <rect width="900" height="330" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="328" rx="14" fill="none" stroke="#30363d"/>
+  <circle cx="24" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="24" r="6" fill="#27c93f"/>
+  <text x="88" y="29" fill="#8b949e" font-family="monospace" font-size="14">moein@moein.nrz: ~/learning — zsh</text>
+
+  <text x="32" y="68" fill="#39d353" font-family="monospace" font-size="16">$ cat learning.txt</text>
+
+  <g font-family="monospace" font-size="20" fill="#f0f6fc">
+    <g opacity="0">
+      <text x="48" y="110">→ Natural Language Processing</text>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.20;0.24;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="48" y="110">→ Large Language Models</text>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.24;0.28;0.48;0.52" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="48" y="110">→ Retrieval-Augmented Generation</text>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.52;0.56;0.76;0.80" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <text x="48" y="110">→ Advanced Deep Learning</text>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.80;0.84;0.98;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <text x="32" y="160" fill="#8b949e" font-family="monospace" font-size="15">$ status --learning</text>
+  <text x="32" y="190" fill="#58a6ff" font-family="monospace" font-size="15">learning...</text>
+
+  <rect x="32" y="210" width="836" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
+  <rect x="32" y="210" width="0" height="18" rx="9" fill="#39d353">
+    <animate attributeName="width" values="0;520;520;0" keyTimes="0;0.45;0.65;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="32" y="260" fill="#8b949e" font-family="monospace" font-size="14">$ echo "keep learning • keep building"</text>
+  <text x="32" y="292" fill="#39d353" font-family="monospace" font-size="14">● LIVE LEARNING STATUS</text>
+</svg>
