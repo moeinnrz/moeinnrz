@@ -1,4 +1,24 @@
 <div align="center">
+
+<h3><code>moein@moein.nrz ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap, last 12 months" />
+<br><br>
+<h3><code>moein@moein.nrz ~ $ whoami</code></h3>
+<img src="./whoami.svg" width="860" alt="ASCII portrait and AI developer information card" />
+<br>
+<h3><code>moein@moein.nrz ~ $ cat contact.txt</code></h3>
+<p>
+<a href="https://github.com/moeinnrz"><img src="https://img.shields.io/badge/GitHub-@moeinnrz-39d353?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/moein-norouzi-badelbu-nrz/"><img src="https://img.shields.io/badge/LinkedIn-Moein%20Norouzi-58a6ff?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:moein.nrz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-moein.nrz.dev%40gmail.com-c9d1d9?style=for-the-badge&logo=gmail&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Email" /></a>
+</p>
+<br>
+<sub><code>contrib-heatmap.svg</code> is refreshed automatically by GitHub Actions. The terminal art is self-hosted in this repository.</sub>
+</div>
+
+---
+
+<div align="center">
   <img src="./assets/header.svg" width="100%" alt="Moein Norouzi — AI & Machine Learning Developer" />
 </div>
 
