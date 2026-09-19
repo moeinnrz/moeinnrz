@@ -91,23 +91,11 @@ Automation
 
 ## `03 / tech stack`
 
-**Languages**
+<div align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Moein Norouzi technology stack and skill progress bars" />
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cs,cpp&theme=dark" alt="Python C# C++" />
-</p>
-
-**AI / Data**
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas&theme=dark" alt="PyTorch TensorFlow OpenCV Scikit-learn NumPy Pandas" />
-</p>
-
-**Backend / Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,docker,git,github,vscode&theme=dark" alt="Django Docker Git GitHub VS Code" />
-</p>
+> Progress bars are a portfolio visualization of my current working familiarity with each technology, not standardized skill benchmarks.
 
 ---
 
