@@ -1,32 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650" role="img" aria-label="Moein Norouzi terminal profile">
 <rect width="1100" height="650" rx="14" fill="#0d1117"/>
-<rect width="1100" height="54" rx="14" fill="#161b22"/><rect y="40" width="1100" height="14" fill="#161b22"/>
-<circle cx="28" cy="27" r="7" fill="#ff5f56"/><circle cx="51" cy="27" r="7" fill="#ffbd2e"/><circle cx="74" cy="27" r="7" fill="#27c93f"/>
-<text x="550" y="33" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">moein@moein.nrz: ~ — zsh</text>
-<text x="36" y="88" fill="#39d353" font-family="ui-monospace,monospace" font-size="15">$ whoami --verbose</text>
-<text x="36" y="114" fill="#8b949e" font-family="ui-monospace,monospace" font-size="12">profile loaded... <tspan fill="#39d353">OK</tspan></text>
-<line x1="36" y1="134" x2="1064" y2="134" stroke="#21262d"/>
-<text x="36" y="174" fill="#39d353" font-family="ui-monospace,monospace" font-size="13" font-weight="700">moein@moein.nrz</text>
-<text x="36" y="205" fill="#39d353" font-family="ui-monospace,monospace" font-size="12" font-weight="700">Now:</text>
-<text x="140" y="205" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="12">Artificial Intelligence · Deep Learning · Computer Vision</text>
-<text x="36" y="239" fill="#39d353" font-family="ui-monospace,monospace" font-size="12" font-weight="700">Prev:</text>
-<text x="140" y="239" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="12">Python · Django · AI Development · Deep Learning · Computer Vision</text>
-<text x="140" y="260" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="12">PyTorch · TensorFlow · C#</text>
-<text x="36" y="294" fill="#39d353" font-family="ui-monospace,monospace" font-size="12" font-weight="700">Stack:</text>
-<text x="140" y="294" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="12">Python · PyTorch · TensorFlow · OpenCV · Django · C# · Git</text>
-<text x="36" y="328" fill="#39d353" font-family="ui-monospace,monospace" font-size="12" font-weight="700">Highlights:</text>
-<text x="165" y="328" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="12">Industrial Fall Detection</text>
-<text x="165" y="350" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="12">AI Hand Gesture Volume Control</text>
-<text x="165" y="372" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="12">AI / RAG Chatbot</text>
-<text x="36" y="406" fill="#39d353" font-family="ui-monospace,monospace" font-size="12" font-weight="700">Learning:</text>
-<text x="165" y="406" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="12">NLP · LLMs · Machine Learning · Deep Learning</text>
-<text x="36" y="440" fill="#39d353" font-family="ui-monospace,monospace" font-size="12" font-weight="700">Reach:</text>
-<text x="165" y="440" fill="#58a6ff" font-family="ui-monospace,monospace" font-size="12">github.com/moeinnrz</text>
-<text x="165" y="462" fill="#58a6ff" font-family="ui-monospace,monospace" font-size="12">linkedin.com/in/moein-norouzi-badelbu-nrz</text>
-<text x="165" y="484" fill="#58a6ff" font-family="ui-monospace,monospace" font-size="12">moein.nrz.dev@gmail.com</text>
-<line x1="36" y1="520" x2="1064" y2="520" stroke="#21262d"/>
-<text x="36" y="550" fill="#484f58" font-family="ui-monospace,monospace" font-size="11">────────────────────────────────────────────────────────────────────────────────</text>
-<text x="36" y="578" fill="#39d353" font-family="ui-monospace,monospace" font-size="12">$ echo "AI • BUILD • LEARN"</text>
-<text x="1064" y="578" text-anchor="end" fill="#39d353" font-family="ui-monospace,monospace" font-size="12">READY</text>
-<text x="36" y="610" fill="#484f58" font-family="ui-monospace,monospace" font-size="10">terminal profile · no portrait · text-first interface</text>
+<rect width="1100" height="58" rx="14" fill="#161b22"/><rect y="42" width="1100" height="16" fill="#161b22"/>
+<circle cx="30" cy="29" r="8" fill="#ff5f56"/><circle cx="55" cy="29" r="8" fill="#ffbd2e"/><circle cx="80" cy="29" r="8" fill="#27c93f"/>
+<text x="550" y="36" text-anchor="middle" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17" font-weight="700">moein@moein.nrz: ~ — zsh</text>
+<text x="36" y="98" fill="#39d353" font-family="ui-monospace,monospace" font-size="20" font-weight="700">$ whoami --verbose</text>
+<text x="36" y="128" fill="#8b949e" font-family="ui-monospace,monospace" font-size="15">profile loaded... <tspan fill="#39d353" font-weight="700">OK</tspan></text>
+<line x1="36" y1="150" x2="1064" y2="150" stroke="#21262d"/>
+<text x="36" y="194" fill="#39d353" font-family="ui-monospace,monospace" font-size="18" font-weight="700">moein@moein.nrz</text>
+<text x="36" y="234" fill="#39d353" font-family="ui-monospace,monospace" font-size="16" font-weight="700">Now:</text>
+<text x="150" y="234" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="16">Artificial Intelligence · Deep Learning · Computer Vision</text>
+<text x="36" y="274" fill="#39d353" font-family="ui-monospace,monospace" font-size="16" font-weight="700">Prev:</text>
+<text x="150" y="274" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="16">Python · Django · AI Development · Deep Learning · Computer Vision</text>
+<text x="150" y="300" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="16">PyTorch · TensorFlow · C#</text>
+<text x="36" y="340" fill="#39d353" font-family="ui-monospace,monospace" font-size="16" font-weight="700">Stack:</text>
+<text x="150" y="340" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="16">Python · PyTorch · TensorFlow · OpenCV · Django · C# · Git</text>
+<text x="36" y="380" fill="#39d353" font-family="ui-monospace,monospace" font-size="16" font-weight="700">Highlights:</text>
+<text x="180" y="380" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="16">Industrial Fall Detection</text>
+<text x="180" y="408" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="16">AI Hand Gesture Volume Control</text>
+<text x="180" y="436" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="16">AI / RAG Chatbot</text>
+<text x="36" y="476" fill="#39d353" font-family="ui-monospace,monospace" font-size="16" font-weight="700">Learning:</text>
+<text x="180" y="476" fill="#c9d1d9" font-family="ui-monospace,monospace" font-size="16">NLP · LLMs · Machine Learning · Deep Learning</text>
+<text x="36" y="516" fill="#39d353" font-family="ui-monospace,monospace" font-size="16" font-weight="700">Reach:</text>
+<text x="180" y="516" fill="#58a6ff" font-family="ui-monospace,monospace" font-size="15">github.com/moeinnrz</text>
+<text x="180" y="542" fill="#58a6ff" font-family="ui-monospace,monospace" font-size="15">linkedin.com/in/moein-norouzi-badelbu-nrz</text>
+<text x="180" y="568" fill="#58a6ff" font-family="ui-monospace,monospace" font-size="15">moein.nrz.dev@gmail.com</text>
+<line x1="36" y1="592" x2="1064" y2="592" stroke="#21262d"/>
+<text x="36" y="620" fill="#39d353" font-family="ui-monospace,monospace" font-size="15">$ echo "AI • BUILD • LEARN"</text>
+<text x="1064" y="620" text-anchor="end" fill="#39d353" font-family="ui-monospace,monospace" font-size="15">READY</text>
 </svg>
