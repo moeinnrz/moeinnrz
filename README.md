@@ -131,7 +131,17 @@ READY
 
 ---
 
-## `04 / selected work`
+## `04 / currently learning`
+
+<div align="center">
+  <img src="./assets/currently-learning.svg" width="900" alt="Live currently learning status" />
+</div>
+
+<p align="center"><sub>Animated learning status — cycles automatically without requiring a page refresh.</sub></p>
+
+---
+
+## `05 / selected work`
 
 <table>
 <tr>
@@ -210,7 +220,7 @@ Networking / security learning project implemented in Python.
 
 ---
 
-## `05 / github analytics`
+## `06 / github analytics`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/moeinnrz/moeinnrz/gh-pages/github-dashboard.svg" width="100%" alt="Live GitHub analytics dashboard" />
@@ -220,7 +230,7 @@ Networking / security learning project implemented in Python.
 
 ---
 
-## `06 / contribution activity`
+## `07 / contribution activity`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeinnrz&theme=github-compact&hide_border=true&area=true&custom_title=Moein%20Norouzi%20—%20Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
@@ -228,7 +238,7 @@ Networking / security learning project implemented in Python.
 
 ---
 
-## `07 / contribution snake`
+## `08 / contribution snake`
 
 <div align="center">
   <picture>
@@ -240,7 +250,7 @@ Networking / security learning project implemented in Python.
 
 ---
 
-## `08 / learning roadmap`
+## `09 / learning roadmap`
 
 <table>
 <tr>
@@ -280,7 +290,7 @@ Networking / security learning project implemented in Python.
 
 ---
 
-## `09 / principles`
+## `10 / principles`
 
 ```text
 01  Learn deeply.
@@ -291,7 +301,7 @@ Networking / security learning project implemented in Python.
 
 ---
 
-## `10 / connect`
+## `11 / connect`
 
 <div align="center">
 
