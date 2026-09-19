@@ -36,21 +36,8 @@ jobs:
 
       - name: Render contribution heatmap
         run: python scripts/render_heatmap_svg.py
-
-      - name: Install portrait dependencies
-        if: github.event_name == 'push'
-        run: pip install -r scripts/requirements-portrait-basic.txt
-
-      - name: Generate ASCII portrait
-        if: github.event_name == 'push'
-        run: |
-          python scripts/prep_photo.py source-photo.jpg --no-rembg
-          python scripts/make_ascii_svg.py
-          python scripts/make_info_card.py
-          python scripts/compose_whoami.py
-
       - name: Commit generated profile art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile art [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg avi-ascii.svg source-prepped.png info-card.svg whoami.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg"
