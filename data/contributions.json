@@ -1,11 +1,11 @@
 {
   "username": "moeinnrz",
-  "generated_at": "2026-11-22T14:34:26+00:00",
+  "generated_at": "2026-11-23T18:07:56+00:00",
   "range": {
     "from": "2025-11-23",
-    "to": "2026-11-22"
+    "to": "2026-11-23"
   },
-  "total": 155,
+  "total": 156,
   "days": [
     {
       "date": "2025-11-23",
@@ -1829,19 +1829,24 @@
     },
     {
       "date": "2026-11-22",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-23",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "current_streak": 64,
-    "longest_streak": 64,
+    "current_streak": 65,
+    "longest_streak": 65,
     "best_day": {
       "date": "2026-09-19",
       "count": 43
     },
-    "active_days": 66,
-    "daily_average": 0.42,
+    "active_days": 67,
+    "daily_average": 0.43,
     "monthly": {
       "2025-11": 0,
       "2025-12": 0,
@@ -1855,7 +1860,7 @@
       "2026-08": 0,
       "2026-09": 102,
       "2026-10": 31,
-      "2026-11": 21
+      "2026-11": 22
     }
   }
 }
